@@ -24,3 +24,4 @@
 	Stirng responseBody = httpClient.post();//发送请求
 	//{"retCode":"0000","retMsg":"","data":{...}}
 ```	
+SaaS平台接口服务介绍请移步至[Wiki](https://github.com/hnseud2020/saas-sdk/wiki)
